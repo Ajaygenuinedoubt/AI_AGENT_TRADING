@@ -60,7 +60,7 @@ ai_trading_agent/
 
 * **Python 3.10 / 3.11** (recommended)
 * **LangChain** – LLM orchestration
-* **Groq API** – Free LLM inference (LLaMA 3)
+* **Groq API** – Free LLM inference (openai/gpt-oss-120b)
 * **Yahoo Finance (yfinance)** – Market data
 * **Pandas / NumPy** – Data processing
 * **SMTP (Gmail)** – Email alerts
