@@ -1,0 +1,12 @@
+langchain 
+langchain-community
+groq
+pandas 
+numpy
+requests
+python-telegram-bot
+gspread 
+oauth2client
+langchain-groq
+
+
